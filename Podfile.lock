@@ -1,0 +1,16 @@
+PODS:
+  - HPOpenWeather (2.0.2)
+
+DEPENDENCIES:
+  - HPOpenWeather
+
+SPEC REPOS:
+  trunk:
+    - HPOpenWeather
+
+SPEC CHECKSUMS:
+  HPOpenWeather: b83b80fa332b4676c6e6af72c80fb8c42c71eac4
+
+PODFILE CHECKSUM: d3d25043bf4545b653d0419b6d9d70b7c86a1b8e
+
+COCOAPODS: 1.8.4
